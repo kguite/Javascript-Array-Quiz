@@ -89,7 +89,7 @@ function checkChoice(event) {
    
     // Check if on last question
     const nextBtn = document.querySelector(".next-btn");
-    if (id < 13){
+    if (id < 12){
         // Display next question button  
         nextBtn.style.display = "block";
         nextBtn.addEventListener("click", nextFunction); 
