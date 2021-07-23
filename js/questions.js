@@ -56,7 +56,7 @@ const quizQuestions = [
     },
     {
         id: 6,
-        question: "Which method rearranges the elements of an array into alphabetical or numerical order??",
+        question: "Which method rearranges the elements of an array into alphabetical or numerical order?",
         choices: [
             "every()",
             "reduce()",

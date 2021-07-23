@@ -1,7 +1,16 @@
+/*
+Yellow: #F0E77c
+Pink: #FA95A3
+Purple: #A392E0
+Light Blue: #A0DCFA
+Green: #95F3A3
+Dark Indigo Background: #161766
+*/
+
 body {
     margin: 0;
     background-color: #161766;
-    /* background-color: #43aa8b; */
+    /*  */
     height: 100vh;
     display: flex;
     font-family: "Roboto", sans-serif;
