@@ -9,3 +9,5 @@ https://javascript-array-methods-quiz.netlify.app/
 Test your knowledge of the most commonly used array methods with a multiple choice quiz.
 
 Want to make your own quiz? Clone the project and change the questions/answers to make it your own.
+
+Practice string methods here: https://github.com/kguite/javascript-string-methods-quiz
